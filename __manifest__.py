@@ -12,7 +12,10 @@
 This module contains all the common features of Sales Management and eCommerce.
     """,
     'depends': ['sales_team', 'payment', 'portal', 'utm'],
-    'data': [ ],
+    'data': [
+        'views/menus.xml',
+        'views/patient_view.xml',
+    ],
 
     'installable': True,
     'auto_install': False,
