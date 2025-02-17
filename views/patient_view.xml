@@ -10,7 +10,7 @@
             <field name="context">{}</field>
             <field name="help" type="html">
                 <p class="o_view_nocontent_smiling_face">
-                    Create a new Patient
+                    Create a new Patient new patient
                 </p>
             </field>
         </record>
